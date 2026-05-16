@@ -30,9 +30,9 @@ Transformo ideias em experiências digitais usando React, TypeScript e boas prá
 
 <div align="center">
 
-![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriquebds&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquebds&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
